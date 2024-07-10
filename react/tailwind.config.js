@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    //arquivos da aplicação que terão tailwind
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
